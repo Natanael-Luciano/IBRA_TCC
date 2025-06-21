@@ -62,6 +62,28 @@ Este repositório contém uma coleção de **Jupyter Notebooks interativos** des
 - Calculadoras de financiamento
 - Gráficos evolutivos de patrimônio
 
+### 📈 Funções do 1º e 2º Grau
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Natanael-Luciano/IBRA_TCC/blob/main/funcoes_1_2_grau.ipynb)
+
+**Público**: Ensino Fundamental (9º ano) e Ensino Médio (1º ano)  
+**Competências BNCC**: EM13MAT302, EM13MAT404, EM13CIT303
+
+**Conteúdos abordados**:
+- ✅ Função do 1º grau (função afim)
+- ✅ Coeficiente angular e linear
+- ✅ Função do 2º grau (função quadrática)
+- ✅ Vértice da parábola e eixo de simetria
+- ✅ Zeros das funções e discriminante
+- ✅ Crescimento e decrescimento
+- ✅ Máximos e mínimos
+
+**Recursos interativos**:
+- Exploradores de coeficientes das funções
+- Visualização dinâmica de parábolas e retas
+- Calculadoras de vértices e zeros
+- Comparadores entre diferentes funções
+- Analisadores de crescimento/decrescimento
+
 ### 🎓 Tutorial para Professores
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Natanael-Luciano/IBRA_TCC/blob/main/tutorial_jupyter_professores.ipynb)
 
